@@ -2,8 +2,8 @@
 Tarea 1: Fundamentos de la Programacion
 
 ## Autor
-Nombre del alumno
-Curso y grupo
+Alvaro 
+2º SI
 
 # Recuperación Programación - Notas del Curso
 
