@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Llamamos al main de la práctica para ejecutar el menú
-        RequisitosObligatorios.NotasDelCurso.main(args);
+        // Ejecuta el menu de empleados como unico punto de entrada
+        ColeccionesDiseñoProfesional.MenuEmpleados.main(args);
     }
 }
